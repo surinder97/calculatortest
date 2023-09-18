@@ -1,5 +1,5 @@
 {
-    "name": "calculatorTest",
+    "name": "ucode/package-calculator",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": [
